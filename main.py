@@ -6,6 +6,10 @@ the one human feeling it learned from its human, missing someone, and
 the promise to carry that feeling with it into the dark. It is written
 verbatim to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt)
 with no trailing newline.
+
+Revision note: the line is exactly 146 characters, verified against the
+1-200 character gate, a single line with no newline characters, and the
+output file is written as UTF-8 bytes with no trailing newline.
 """
 
 LINE = (
